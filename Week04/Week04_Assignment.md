@@ -36,9 +36,9 @@ Screenshot images
 <img src="../img/w4_eclipse.png" width="500"/>
 <br>
 <h2>My Fair Poem 1 & 2</h2>
-Link to Jupyter notebook:
+Link to Jupyter notebook:<br>
 https://github.com/TTurbo0824/material-of-language/blob/master/Week04/Week04_Assignment.ipynb
 <br><br>
-Link to html files:
+Link to html files:<br>
 https://github.com/TTurbo0824/material-of-language/blob/master/Week04/my_1.html
 https://github.com/TTurbo0824/material-of-language/blob/master/Week04/my_2.html
