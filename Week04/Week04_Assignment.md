@@ -3,7 +3,7 @@ I took two different approaches to create three concrete poems, one using p5.js 
 
 <h2>Eclipse</h2>
 Link to p5.js sketch: https://editor.p5js.org/kh1785/sketches/4nBmBFaK
-<br>
+<br><br>
 While I was searching for inspiration, I encountered this concrete poem.
 
 <img src="../img/w4_ins.jpg" width="500"/>
