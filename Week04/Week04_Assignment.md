@@ -13,29 +13,27 @@ I thought it would be nice to create an interactive version of it, which simulat
 <br>
 Declaring variables.
 
-<img src="../img/w4_variable.png" width="500"/>
+<img src="../img/w4_variable.png" width="400"/>
 
 Setup function
 
-<img src="../img/w4_setup.png" width="350"/>
+<img src="../img/w4_setup.png" width="325"/>
 
 I first made text to wrap a circle to represent the shape of moon and earth.
 Testing a textWrap function.
-
-<br>
 <img src="../img/w4_textwrap.png" width="500"/>
-
+Test result
 <img src="../img/w4_test.png" width="300"/>
 
 
 When those two circles collide, both moon and earth will turn into eclipse analogous to the real-world phenomenon. I used a map function to map position of mouseX.
 
-<img src="../imgw4_draw.png" width="500"/>
+<img src="../img/w4_draw.png" width="500"/>
 <br>
 Screenshot images
 <img src="../img/w4_earth.png" width="500"/>
 <img src="../img/w4_eclipse.png" width="500"/>
-<br><br>
+<br>
 <h2>My Fair Poem 1 & 2</h2>
 Link to Jupyter notebook:
 https://github.com/TTurbo0824/material-of-language/blob/master/Week04/Week04_Assignment.ipynb
