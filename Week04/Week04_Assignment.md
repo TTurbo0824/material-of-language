@@ -10,18 +10,19 @@ I first decided to make texts to wrap a circle to create a shape for moon and ea
 
 Declaring variables.
 
-![screenshot 1](../img/w4_variable.png)
+<img src="../img/w4_variable.png" width="500"/>
+
 
 Setup function
 
-![screenshot 2](../img/w4_setup.png)
+<img src="../img/w4_setup.png" width="500"/>
 
 First, I tested textWrap function.
-![screenshot 3](../img/w4_textwrap.png)
-![screenshot 4](../img/w4_test.png)
-![screenshot 5](../img/w4_w4_earth.png)
-![screenshot 6](../img/w4_moon.png)
-![screenshot 7](../img/w4_eclipse.png)
+<img src="../img/w4_textwrap.png" width="500"/>
+<img src="../img/w4_test.png" width="500"/>
+<img src="../img/w4_earth.png" width="500"/>
+<img src="../img/w4_eclipse.png" width="500"/>
+
 
 <h2>My Fair Poem 1 & 2</h2>
 Link to Jupyter notebook: https://github.com/TTurbo0824/material-of-language/blob/master/Week04/Week04_Assignment.ipynb
