@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<center>
+    <br>
+    <br>
+    <br>
+    <p><b>My Fair Poem 1</b></p>
+    <br>
+    <p id="demo0" onmouseover="myFunction(0)">😤😈😅</p>
+    <p id="demo1" onmouseover="myFunction(1)">😜😁😊😘</p>
+    <p id="demo2" onmouseover="myFunction(2)">😊😘</p>
+    <p id="demo3" onmouseover="myFunction(3)">😝😚😁😊😘</p>
+    <p id="demo4" onmouseover="myFunction(4)">😝😚😁😊😘</p>
+    <p id="demo5" onmouseover="myFunction(5)">😓😁😊😘😎😶</p>
+    <p id="demo6" onmouseover="myFunction(6)">😊😘</p>
+    <p id="demo7" onmouseover="myFunction(7)">😤😈😅</p>
+    <p id="demo8" onmouseover="myFunction(8)">😚😎😁😊</p>
+</center>
+    <script>
+        var changedToEmoji = [false, false, false, false, false, false, false];
+        var emojis = ["😤😈😅",
+            "😜😁😊😘",
+            "😊😘",
+            "😝😚😁😊😘",
+            "😝😤😁😶😝",
+            "😓😁😊😘😎😶",
+            "😊😘",
+            "😤😈😅",
+            "😚😎😁😊"
+        ];
+
+        var text = ["the", 
+                    "rain",
+                    "in",
+                    "spain",
+                    "stays",
+                    "mainly",
+                    "in",
+                    "the",
+                    "plain"
+                ];
+        console.log(changedToEmoji[0]);
+
+        function myFunction(i) {
+            var ele = document.getElementById("demo"+String(i));
+            if (changedToEmoji[i]) {
+                ele.innerHTML = text[i];
+            } else {
+                ele.innerHTML = emojis[i];
+            }
+            changedToEmoji[i] = !changedToEmoji[i];
+            console.log(i);
+            console.log(changedToEmoji[i]);
+        }
+    </script>
+
+</body>
+
+</html>
