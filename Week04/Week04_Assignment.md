@@ -43,6 +43,8 @@ Link to html files:<br>
 https://github.com/TTurbo0824/material-of-language/blob/master/Week04/my_1.html
 https://github.com/TTurbo0824/material-of-language/blob/master/Week04/my_2.html
 <br>
-Link to YouTube video<br>
+<br>
+Link to YouTube video:<br>
+
 [![my 1](http://img.youtube.com/vi/F9aOXj_Nnk8/0.jpg)](https://youtu.be/F9aOXj_Nnk8 "my 1")
 [![my 2](http://img.youtube.com/vi/Ugj6UZZ89L0/0.jpg)](https://youtu.be/Ugj6UZZ89L0 "my 2")
