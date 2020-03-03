@@ -22,6 +22,7 @@ Setup function
 I first made text to wrap a circle to represent the shape of moon and earth.
 Testing a textWrap function.
 <img src="../img/w4_textwrap.png" width="500"/>
+
 Test result
 <img src="../img/w4_test.png" width="300"/>
 
