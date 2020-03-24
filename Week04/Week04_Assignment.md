@@ -1,5 +1,5 @@
 <h1>Week04 Assignment</h1>
-I took two different approaches to create three concrete poems, one using p5.js and others using python.<br>
+I took two different approaches to create three concrete poems, one using p5.js and others in jupyter notebook<br>
 
 <h2>Eclipse</h2>
 Link to p5.js sketch: https://editor.p5js.org/kh1785/sketches/4nBmBFaK
